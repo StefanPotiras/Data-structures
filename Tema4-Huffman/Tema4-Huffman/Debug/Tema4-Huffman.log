@@ -1,0 +1,10 @@
+﻿  MinHeap.cpp
+C:\Users\stefa\source\repos\Tema4-Huffman\Tema4-Huffman\MinHeap.cpp(73,1): error C2143: syntax error: missing ';' before '}'
+C:\Users\stefa\source\repos\Tema4-Huffman\Tema4-Huffman\MinHeap.cpp(73,1): error C3867: 'MinHeap::creazaHeapulMin': non-standard syntax; use '&' to create a pointer to member
+  Tema4-Huffman.cpp
+C:\Users\stefa\source\repos\Tema4-Huffman\Tema4-Huffman\Tema4-Huffman.cpp(19,23): warning C4018: '<': signed/unsigned mismatch
+C:\Users\stefa\source\repos\Tema4-Huffman\Tema4-Huffman\Tema4-Huffman.cpp(27,23): warning C4018: '<': signed/unsigned mismatch
+C:\Users\stefa\source\repos\Tema4-Huffman\Tema4-Huffman\Tema4-Huffman.cpp(35,23): warning C4018: '<': signed/unsigned mismatch
+C:\Users\stefa\source\repos\Tema4-Huffman\Tema4-Huffman\Tema4-Huffman.cpp(44,23): warning C4018: '<': signed/unsigned mismatch
+C:\Users\stefa\source\repos\Tema4-Huffman\Tema4-Huffman\Tema4-Huffman.cpp(48,23): warning C4018: '<': signed/unsigned mismatch
+  Generating Code...
